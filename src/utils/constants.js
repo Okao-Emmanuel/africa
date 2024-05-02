@@ -12,12 +12,11 @@ import TheaterComedyIcon from '@mui/icons-material/TheaterComedy';
 import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 
-export const logo = 'https://ibb.co/XtzPLCq';
+export const logo = 'https://i.ibb.co/Pg5yj6d/africaX.png';
 
 export const categories = [
-  { name: 'Login'},
   { name: 'New', icon: <HomeIcon />, },
-  { name: 'JS Mastery', icon: <CodeIcon />, },
+  { name: 'Africa', icon: <CodeIcon />, },
   { name: 'Coding', icon: <CodeIcon />, },
   { name: 'ReactJS', icon: <CodeIcon />, },
   { name: 'NextJS', icon: <CodeIcon />, },
